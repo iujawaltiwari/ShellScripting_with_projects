@@ -30,4 +30,10 @@ echo "Nibbi: Kitne hidden file hai tumhare pas"
 
 ls -a
 
+echo "Nibba: Shah jahan ne taj mahal banvaya tha, mai folder banaunga"
 
+mkdir nibbi_ka_makabara
+
+echo "Dekho ye hai makbara"
+
+ls
